@@ -1,4 +1,6 @@
 # moviesimilarity
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Yaichzayneb123/movie.git/HEAD)
+
 ###  Table of contents  <br>
 1- Introduction<br>
 2- Import data<br>
